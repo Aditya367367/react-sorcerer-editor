@@ -68,7 +68,7 @@ Make sure you have the following installed:
 ## Deployment
 
 The live application is deployed on CodeSandbox. You can access it here:
-[React Sorcerer Editor](https://codesandbox.io/s/react-sorcerer-editor-xyz123)
+[React Sorcerer Editor](https://cptwtl-3000.csb.app/)
 
 ---
 
