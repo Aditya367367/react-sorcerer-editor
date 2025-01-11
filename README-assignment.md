@@ -44,7 +44,7 @@ Make sure you have the following installed:
 
 1. **Clone the Repository:**
    ```bash
-   git clone <ghttps://github.com/Aditya367367/react-sorcerer-editor.git>
+   git clone <https://github.com/Aditya367367/react-sorcerer-editor.git>
    ```
 
 2. **Navigate to the Project Folder:**
